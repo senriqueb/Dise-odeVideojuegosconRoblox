@@ -18,4 +18,4 @@
 
 ***
 
-Descarga la presentación de la lección en formato Power Point [Haciendo clic aquí](https://docs.google.com/presentation/d/1f77IoZWJUR25_HdoRuoFyw9eksVgfMI4/edit?usp=sharing&ouid=100683193504385380042&rtpof=true&sd=true)
+Descarga la presentación de la lección en formato PDF [HACIENDO CLIC AQUÍ](https://docs.google.com/presentation/d/1f77IoZWJUR25_HdoRuoFyw9eksVgfMI4/edit?usp=sharing&ouid=100683193504385380042&rtpof=true&sd=true)
