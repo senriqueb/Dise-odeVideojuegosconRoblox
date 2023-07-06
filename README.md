@@ -19,3 +19,26 @@
 ***
 
 Descarga la presentación de la lección en formato PDF [HACIENDO CLIC AQUÍ](https://docs.google.com/presentation/d/1f77IoZWJUR25_HdoRuoFyw9eksVgfMI4/edit?usp=sharing&ouid=100683193504385380042&rtpof=true&sd=true)
+
+
+## Lección 5 - Scripts
+👉 **Sobre la lección:**
+
+🎯 **Resultados de la lección:**
+
+***
+
+**Listado de scripts:**
+
+🟩   Script para cambiar el material de una parte:
+
+<pre><code>function button1()
+    game.Workspace.Button1.Material = Enum.Material.Neon
+end
+game.Workspace.Button1.Touched:Connect(button1)</code></pre>
+
+🟩   Script para cambiar el color de una parte:
+<pre><code>game.Workspace.Button1.BrickColor = BrickColor.new('Lime green')</code></pre>
+
+
+***
